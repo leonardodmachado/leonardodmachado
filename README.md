@@ -20,13 +20,13 @@
 
 ## 📊 GitHub Stats
 
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=leonardodmachado&show_icons=true&theme=tokyonight&cache_seconds=1800)
+![GitHub Stats](https://github-readme-stats-sigma-five.vercel.app/api?username=leonardodmachado&show_icons=true&theme=tokyonight)
 
 ---
 
 ## 💻 Most Used Languages
 
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=leonardodmachado&layout=compact&theme=tokyonight&cache_seconds=1800)
+![Top Languages](https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=leonardodmachado&layout=compact&theme=tokyonight)
 
 ---
 
