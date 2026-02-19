@@ -1,41 +1,52 @@
 # 👋 Hello, I'm Leonardo Machado
 
 🚀 Future Software Developer focused on Europe & Canada  
-💻 Currently studying Backend Development with Node.js  
-📚 Improving my English for international opportunities  
+💻 Backend Developer in progress (Node.js)  
+📚 Improving English for international opportunities  
 🎯 Goal: Working internationally by 2028  
 
 ---
 
-## 🛠 Tech Stack (in progress)
+## 🛠 Tech Stack
 
-- JavaScript
-- Node.js
-- Git & GitHub
-- HTML & CSS
+![JavaScript](https://img.shields.io/badge/JavaScript-000?style=for-the-badge&logo=javascript)
+![Node.js](https://img.shields.io/badge/Node.js-000?style=for-the-badge&logo=node.js)
+![Git](https://img.shields.io/badge/Git-000?style=for-the-badge&logo=git)
+![GitHub](https://img.shields.io/badge/GitHub-000?style=for-the-badge&logo=github)
+![HTML5](https://img.shields.io/badge/HTML5-000?style=for-the-badge&logo=html5)
+![CSS3](https://img.shields.io/badge/CSS3-000?style=for-the-badge&logo=css3)
+
+---
+
+## 📊 GitHub Stats
+
+![Leonardo's GitHub stats](https://github-readme-stats.vercel.app/api?username=leonardodmachado&show_icons=true&theme=dark)
+
+---
+
+## 💻 Most Used Languages
+
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=leonardodmachado&layout=compact&theme=dark)
 
 ---
 
 ## 📈 2026 – 2027 Goals
 
-- Master JavaScript fundamentals
-- Build 5+ backend projects
-- Create a strong GitHub portfolio
-- Contribute to open source
-- Reach professional English level
+- Master JavaScript
+- Build strong backend APIs
+- Create real-world projects
+- Improve English for interviews
+- Work internationally
 
 ---
 
 ## 🔥 Current Focus
 
-- Backend Development
-- Clean Code
-- Problem Solving
-- International career preparation
+Backend • Clean Code • Problem Solving • Consistency
 
 ---
 
 ## 📫 Contact
 
-- LinkedIn: 
-- Email: 
+LinkedIn: (add soon)  
+Email: (optional)
