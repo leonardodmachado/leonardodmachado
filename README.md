@@ -37,5 +37,5 @@
 
 ## 📫 Contact
 
-- LinkedIn: (you will add soon)
-- Email: (optional)
+- LinkedIn: 
+- Email: 
